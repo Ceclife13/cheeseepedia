@@ -19,6 +19,7 @@ categories = ["Chuck E. Cheese's"]
 | {{< wiki-link "CEC Roadshow January 2001" >}}             | {{< wiki-link "January 2001 Show" >}}                     |     | January   | 2001 |
 | {{< wiki-link "CEC Roadshow April 2001" >}}               | {{< wiki-link "Chuck E's Rockin' Rhymes" >}}              |     | April     | 2001 |
 | {{< wiki-link "CEC Roadshow July 2001" >}}                | {{< wiki-link "Summertime 2001" >}}                       |     | July      | 2001 |
+| {{< wiki-link "CEC Roadshow January 2002" >}}             | {{< wiki-link "January 2002 Show" >}}                     |     | January   | 2002 |
 | {{< wiki-link "CEC Roadshow April 2002" >}}               | {{< wiki-link "April 2002 Show" >}}                       |     | April     | 2002 |
 | {{< wiki-link "Road Show 2004" >}}                        | {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}       |     | April     | 2004 |
 | {{< wiki-link "Super Chuck Road Show" >}}                 | {{< wiki-link "Super Chuck Summer Show 2005" >}}          |     | July      | 2005 |
